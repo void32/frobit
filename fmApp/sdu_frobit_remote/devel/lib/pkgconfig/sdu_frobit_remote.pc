@@ -1,0 +1,8 @@
+prefix=/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/devel
+
+Name: sdu_frobit_remote
+Description: Description of sdu_frobit_remote
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/devel/lib 
+Requires: rospy msgs smach smach_ros wiimote_interface generic_smach action_primitives

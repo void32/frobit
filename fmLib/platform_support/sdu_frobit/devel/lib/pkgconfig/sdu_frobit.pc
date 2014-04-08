@@ -1,0 +1,8 @@
+prefix=/home/morten/roswork/sdu/src/fmLib/platform_support/sdu_frobit/devel
+
+Name: sdu_frobit
+Description: Description of sdu_frobit
+Version: 0.0.0
+Cflags: -I/home/morten/roswork/sdu/src/fmLib/platform_support/sdu_frobit/include
+Libs: -L/home/morten/roswork/sdu/src/fmLib/platform_support/sdu_frobit/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: sdu_frobit
+Description: Description of sdu_frobit
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: 

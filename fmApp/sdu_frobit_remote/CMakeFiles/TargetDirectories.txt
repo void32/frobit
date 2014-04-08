@@ -1,0 +1,12 @@
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/action_primitives_generate_messages_cpp.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/action_primitives_generate_messages_lisp.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/action_primitives_generate_messages_py.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/clean_test_results.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/doxygen.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/gtest/CMakeFiles/gtest.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/gtest/CMakeFiles/gtest_main.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/msgs_generate_messages_cpp.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/msgs_generate_messages_lisp.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/msgs_generate_messages_py.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/run_tests.dir
+/home/morten/roswork/sdu/src/fmApp/sdu_frobit_remote/CMakeFiles/tests.dir

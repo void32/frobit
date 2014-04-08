@@ -14,7 +14,7 @@
 		</node>
 	</group>
 
-        <node pkg="wiimote" type="wiimote_node.py" name="remote_control" respawn="true">
-		</node>	
+  <node pkg="wiimote" type="wiimote_node.py" name="remote_control" respawn="true">
+	</node>	
 		
 </launch>
