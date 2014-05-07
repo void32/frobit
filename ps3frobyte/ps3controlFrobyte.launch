@@ -1,0 +1,7 @@
+<launch>
+  <!-- a basic listener node -->
+  <node name="ps3frobyte_node" pkg="frobyte_ps3controller" type="ps3frobyte_node" output="screen"/>
+
+  <!-- pass args to the listener node -->
+  <node name="joy_node" pkg="joy" type="joy_node" />
+</launch>
